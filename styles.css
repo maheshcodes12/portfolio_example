@@ -1,0 +1,90 @@
+.header {
+	margin: auto;
+	font-size: 25px;
+}
+.intro {
+	margin: 75px auto;
+}
+body {
+	text-align: center;
+	background-color: #f9f5eb;
+	color: #002b5b;
+	margin: 0px;
+	margin-top: 100px;
+	font-family: "Merriweather", serif;
+	font-size: 20px;
+}
+h1 {
+	font-size: 55px;
+	font-family: "Sacramento", cursive;
+	color: #002b5b;
+}
+h2 {
+	font-family: "Monserrat", "Merriweather", sans-serif;
+	color: #002b5b;
+}
+hr {
+	border-style: none;
+	border-top-style: dotted;
+	border-color: #ea5455;
+	border-width: 5px;
+	width: 10%;
+}
+.Education {
+	margin: 50px auto;
+	width: 40%;
+}
+.footer {
+	background-color: #ff6969;
+	color: #e4dccf;
+	padding-top: 20px;
+	text-decoration-line: none;
+}
+button {
+	margin-bottom: 140px;
+	border-radius: 35px;
+	background-color: #ff6969;
+	color: #002b5b;
+	border-color: aliceblue;
+	padding: 20px;
+	font-size: 15px;
+}
+button:hover {
+	background-color: #002b5b;
+	border-color: #57c5b6;
+	color: #e4dccf;
+}
+.Experience {
+	margin: 100px auto;
+}
+.skillbody {
+	margin: 100px auto 10px auto;
+	font-size: 25px;
+}
+.skillsimg {
+	height: 100px;
+	width: 100px;
+}
+.backtotop {
+	height: 30px;
+	width: 30px;
+	position: absolute;
+	right: 2%;
+}
+.table {
+	text-align: center;
+	margin: 0% auto;
+}
+a {
+	color: aliceblue;
+	text-decoration: none;
+}
+.contactimg {
+	height: 20px;
+	width: 20px;
+}
+.copyrights {
+	margin-bottom: 0%;
+	margin-top: 20px;
+	font-size: medium;
+}
